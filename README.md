@@ -1,5 +1,6 @@
 # Google-Translate
-
+A simple Google Tranlater Bot with Languages : Tamil , Telugu , Hindi , English , Malayalam , Urdu , Kannada , Spanish , Punjabi
+ <img src = "https://telegra.ph/file/463994dcede6ad152d19b.jpg">
 <p align="center">
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
