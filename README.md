@@ -18,6 +18,6 @@
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MJ8506/Google-Translate)
 
-####Credits
+### Credits
 [MJ](https://github.com/MJ8506/Google-Translate)
 [MJ-TG](https://t.me/Jagadesh8506)
